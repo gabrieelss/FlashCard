@@ -42,3 +42,19 @@ h1 {
     color: white;
     font-size: 24px;
 }
+
+ footer {
+    background-color: cadetblue;
+    padding: 15px 25px;
+    color: black;
+ }
+
+ .cartao-interno {
+    position: relative;
+ }
+
+ .cartao-frente, .cartao-verso {
+    position: relative;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px grey;
+ }
